@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "Search a city. Understand the week. Plan with confidence. Real-time weather, 7-day forecast, interactive trends, deterministic planning guidance, and QA validation powered by Open-Meteo public APIs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
